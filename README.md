@@ -33,6 +33,7 @@ We trained and compared the following regression models:
 ---
 
 ## 📁 Project Structure
+```
 ml-crop-yield-analysis/
 │
 ├── data/
@@ -43,6 +44,7 @@ ml-crop-yield-analysis/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project overview and setup instructions
 └── .venv/ # (optional) Local virtual environment
+```
 
 ## 📈 Key Results
 
